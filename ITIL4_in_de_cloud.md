@@ -8,7 +8,7 @@ Dit is het moment waarop cloud governance belangrijk wordt. Governance gaat niet
 
 In dit document staat ITIL 4 centraal. ITIL 4 is een veelgebruikt framework voor IT Service Management en kan een belangrijke rol spelen bij cloud governance. In de volgende hoofdstukken wordt uitgelegd wat ITIL 4 is, hoe het bijdraagt aan governance in de cloud, wat de sterke en zwakke punten zijn en hoe grote public cloud providers zich tot dit framework verhouden.
 
----
+
 
 ## Wat is ITIL 4?
 
@@ -26,15 +26,13 @@ Centraal in ITIL 4 staat het Service Value System, afgekort als SVS. Dit model b
 
 ITIL 4 schrijft geen specifieke tools, cloudproviders of technologieën voor. Het framework is bewust technologie-onafhankelijk. Dat maakt het breed toepasbaar, maar betekent ook dat organisaties zelf keuzes moeten maken over de invulling.
 
----
+
 
 ## Bijdrage van ITIL 4 aan cloud governance
 
 ITIL 4 draagt bij aan cloud governance op meerdere niveaus. Het gaat niet alleen over processen, maar ook over technologie, business en mensen.
 
 ### Processen en services
-
-ITIL 4 biedt duidelijke richtlijnen voor het beheren van IT-processen zoals incident management, change enablement en service level management. In een cloudomgeving zijn deze processen essentieel. Cloud maakt het eenvoudig om snel wijzigingen door te voeren, maar zonder controle leidt dat al snel tot fouten of instabiliteit.
 
 Met ITIL 4 worden wijzigingen bewust gepland en beoordeeld. Incidenten worden niet alleen opgelost, maar ook geanalyseerd om herhaling te voorkomen. Serviceafspraken worden vastgelegd, zowel met interne teams als met externe cloudproviders. Dit zorgt voor rust en voorspelbaarheid in een dynamische cloudomgeving.
 
@@ -56,33 +54,19 @@ In de praktijk faalt cloud governance zelden door technologie. Het faalt door me
 
 ITIL 4 erkent dit en benadrukt het belang van cultuur, samenwerking en continue verbetering. Het framework sluit goed aan bij moderne manieren van werken zoals DevOps, waarin teams gezamenlijk verantwoordelijk zijn voor services. Door duidelijke verantwoordelijkheden te combineren met samenwerking, ontstaat een stabiele basis voor cloud governance.
 
----
+
 
 ## Is ITIL 4 compleet voor cloud governance?
 
-ITIL 4 dekt veel aspecten van governance af, maar het is niet volledig als het gaat om cloud-specifieke onderwerpen. Het framework gaat bijvoorbeeld niet diep in op technische beveiligingsconfiguraties, identity en access management of kostenoptimalisatie.
 
-Onderwerpen zoals cloud security, IAM en FinOps vereisen aanvullende frameworks en best practices. Daarom wordt ITIL 4 in de praktijk vaak gecombineerd met standaarden zoals ISO/IEC 27001 voor informatiebeveiliging, COBIT voor strategische governance of cloud-specifieke frameworks zoals het AWS Well-Architected Framework.
+ITIL 4 dekt veel aspecten van governance af, maar het is niet volledig als het gaat om cloud-specifieke onderwerpen. Het framework gaat bijvoorbeeld niet diep in op technische beveiligingconfiguraties, IAM of kostenoptimalisatie.
 
-ITIL 4 vormt daarmee een sterk fundament, maar geen complete oplossing. Het biedt structuur en richting, terwijl andere frameworks de technische diepgang leveren.
+Onderwerpen zoals cloud security, IAM en FinOps vereisen aanvullende frameworks en best practices. Daarom wordt ITIL 4 in de praktijk vaak gecombineerd met andere standaarden ITIL 4 vormt daarmee een sterk fundament, maar geen complete oplossing. Het biedt structuur en richting, terwijl andere frameworks de technische diepgang leveren.
 
----
 
 ## Sterke en minder sterke punten van ITIL 4
 
-### Sterke punten
-
-ITIL 4 is flexibel en sluit goed aan bij moderne IT-omgevingen. Het ondersteunt Agile en DevOps werken en past goed bij cloud-native architecturen. Daarnaast ligt de focus op waardecreatie, waardoor IT en business beter op elkaar aansluiten.
-
-Een ander sterk punt is de brede bekendheid van ITIL. Veel organisaties en professionals hebben ervaring met het framework, wat de adoptie vergemakkelijkt.
-
-### Minder sterke punten
-
-Een nadeel van ITIL 4 is het abstracte karakter. Het framework geeft weinig concrete technische handvatten voor cloudimplementaties. Organisaties moeten zelf bepalen hoe ze ITIL-principes vertalen naar tooling en configuraties.
-
-Daarnaast kost de implementatie tijd en vraagt het om organisatorische volwassenheid. Zonder discipline en draagvlak blijft ITIL 4 een theoretisch model.
-
----
+Voor ITIL 4 is een bekend, gerespecteerd en breed geaccepteerde framework binnen de IT. Het kan veel waarde toevoegen aan organisaties. Het kan echter tegelijkertijd vrij abstract zijn wanneer organisaties hier niet zorgvuldig mee omgaan en niet volwassen genoeg zijn.
 
 ## ITIL 4 en public cloud providers
 
@@ -92,7 +76,7 @@ Wel sluiten veel cloudservices goed aan op ITIL-principes. Denk aan monitoring e
 
 In de praktijk leveren cloudproviders de technische mogelijkheden, terwijl organisaties ITIL 4 gebruiken om daar governance bovenop te organiseren. De verantwoordelijkheid ligt dus bij de klant, niet bij de provider.
 
----
+
 
 ## Gekozen video
 
@@ -104,12 +88,10 @@ Ter ondersteuning van dit onderwerp is de volgende video gebruikt:
 
 De video geeft een toegankelijk overzicht van hoe ITIL 4 in cloudomgevingen kan worden toegepast.
 
----
 
 ## Bronnen
 
 - ITIL 4 in the Cloud Era – ITSM Professor  
-- ITIL 4 and the Cloud – Cloud Credential Council  
-- YouTube – ITIL 4: A Successful Implementation of ITIL Practices for Cloud Services (AWS and Azure)
+- ITIL 4 pocket guide (fysiek boek)
 
 ---
