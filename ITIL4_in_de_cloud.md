@@ -1,7 +1,5 @@
 # ITIL 4 en Cloud Governance
 
-![ITIL 4 en Cloud](https://upload.wikimedia.org/wikipedia/commons/5/5c/ITIL_Logo.png)
-
 ## Inleiding
 
 Het starten met cloud computing is tegenwoordig eenvoudig. Een account is snel aangemaakt, een Proof of Concept is zo uitgevoerd en binnen korte tijd draaien er meerdere virtuele machines, databases en andere cloud services. Naarmate een cloudomgeving groeit, ontstaan echter ook uitdagingen. Denk aan ongecontroleerde kosten, te ruime toegangsrechten, beveiligingsincidenten en een gebrek aan overzicht. Juist op dat moment wordt cloud governance essentieel.
@@ -115,6 +113,7 @@ Deze video geeft in korte tijd een duidelijk overzicht van de kernprincipes van 
 
 ## Bronnen
 
+* ITIL 4 in the Cloud Era - From Process to Practice Through Training: https://www.itsmprofessor.net/2025/10/itil-4-in-cloud-era-from-process-to.html?m=1
 * ITIL 4 and the Cloud – Cloud Credential Council: [https://www.cloudcredential.org/whitepapers/itil-4-and-the-cloud/](https://www.cloudcredential.org/whitepapers/itil-4-and-the-cloud/)
 * YouTube –  ITIL 4: A Successful Implementation of ITIL Practices for Cloud Services (AWS and Azure)
 
